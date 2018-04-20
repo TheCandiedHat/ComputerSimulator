@@ -2,4 +2,5 @@
 ## SUBMIT SCORE SCREENSHOTS TO BE ADDED TO THE LEADERBOARD
 
 1st Place - RoyalFlame: 185
-2nd Place - CandiedHat: 62
+
+2nd Place - CandiedHat: 155
